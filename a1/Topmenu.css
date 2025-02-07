@@ -1,0 +1,24 @@
+.topmen {
+    background-color: #333;
+    overflow: hidden;
+    width: 100%;
+}
+
+.topmen a {
+    float: left;
+    color: #7e07ee;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topmen a:hover{
+    color: seagreen;
+    color: seagreen;
+}
+
+.topmen a.active {
+    background-color: mediumpurple;
+    color: white;
+}
